@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/SmartIrrigation/static/css/main.0cc4bf7d.css",
-    "main.js": "/SmartIrrigation/static/js/main.62d0a3af.js",
+    "main.js": "/SmartIrrigation/static/js/main.438e2534.js",
     "static/media/agriculture.png": "/SmartIrrigation/static/media/agriculture.4f3e44124533edec2b70.png",
     "static/media/2.svg": "/SmartIrrigation/static/media/2.d6fb0b6a506dee2f17aed21e844fae43.svg",
     "index.html": "/SmartIrrigation/index.html",
     "main.0cc4bf7d.css.map": "/SmartIrrigation/static/css/main.0cc4bf7d.css.map",
-    "main.62d0a3af.js.map": "/SmartIrrigation/static/js/main.62d0a3af.js.map"
+    "main.438e2534.js.map": "/SmartIrrigation/static/js/main.438e2534.js.map"
   },
   "entrypoints": [
     "static/css/main.0cc4bf7d.css",
-    "static/js/main.62d0a3af.js"
+    "static/js/main.438e2534.js"
   ]
 }
